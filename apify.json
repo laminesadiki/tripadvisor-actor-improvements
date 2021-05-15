@@ -1,0 +1,6 @@
+{
+	"name": "tripadvisor-scraper-all-types",
+	"version": "1.0",
+	"buildTag": "latest",
+	"env": null
+}

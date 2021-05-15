@@ -1,0 +1,76 @@
+{
+    "id_datatourisme": "recCXI0AlcfV2GVSy",
+    "id_tripadvisor": "17453599",
+    "type": "HOTEL",
+    "name": "The Green Life",
+    "photo": {
+      "images": {
+        "small": {
+          "width": "250",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/19/22/03/a2/20190831-135706-largejpg.jpg",
+          "height": "141"
+        },
+        "thumbnail": {
+          "width": "50",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/19/22/03/a2/20190831-135706-largejpg.jpg",
+          "height": "50"
+        },
+        "original": {
+          "width": "1280",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/19/22/03/a2/20190831-135706-largejpg.jpg",
+          "height": "720"
+        },
+        "large": {
+          "width": "1024",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-w/19/22/03/a2/20190831-135706-largejpg.jpg",
+          "height": "576"
+        },
+        "medium": {
+          "width": "550",
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/19/22/03/a2/20190831-135706-largejpg.jpg",
+          "height": "309"
+        }
+      },
+      "is_blessed": true,
+      "uploaded_date": "2019-09-05T12:49:17-0400",
+      "caption": "",
+      "id": "421659554",
+      "helpful_votes": "0",
+      "published_date": "2019-09-05T12:49:17-0400",
+      "user": {
+        "user_id": null,
+        "member_id": "0",
+        "type": "user"
+      }
+    },
+    "awards": [
+      
+    ],
+    "rankingPosition": "1",
+    "priceLevel": "€",
+    "price": "64€ - 88€",
+    "category": "hotel",
+    "rating": "4.0",
+    "hotelClass": "0.0",
+    "address": "Km 21 Route de l'Ourika, Sidi Bouzguia 24005 Maroc",
+    "amenities": [
+      "Activités pour enfants"
+    ],
+    "latitude": "31.483131",
+    "longitude": "-7.867503",
+    "webUrl": "https://www.tripadvisor.fr/Hotel_Review-g12877916-d17453599-Reviews-The_Green_Life-Sidi_Bouzguia_Marrakech_Safi.html",
+    "rankingString": "Nº 1 sur 1 hôtel à Sidi Bouzguia",
+    "numberOfReviews": "7",
+    "rankingDenominator": "1",
+    "reviews": [
+      
+    ],
+    "tags": "marrakech",
+    "noteAttributed": {
+      "horrible": "1",
+      "médiocre": "1",
+      "moyen": "0",
+      "très bon": "1",
+      "excellent": "4"
+    }
+}
