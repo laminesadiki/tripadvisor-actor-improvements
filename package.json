@@ -1,6 +1,6 @@
 {
-	"name": "tripadvisor-extra-puppeteer2",
-	"version": "0.0.1",
+	"name": "tripadvisor-improvements-actor",
+	"version": "2.0",
 	"description": "This is a boilerplate of an Apify actor.",
 	"dependencies": {
 		"apify": "^0.20.4",
@@ -18,6 +18,6 @@
 		"start": "node src/main.js",
 		"test": "echo \"Error: oops, the actor has no tests yet, sad!\" && exit 1"
 	},
-	"author": "It's not you it's me",
+	"author": "ayoub",
 	"license": "ISC"
 }
